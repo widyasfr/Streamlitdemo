@@ -1,4 +1,4 @@
-pip install --upgrade pip
+
 
 alembic==1.6.5
 asyncio==3.4.3
