@@ -28,4 +28,4 @@ Werkzeug==2.0.2
 
 
 
-pip install streamlit_ace
+
